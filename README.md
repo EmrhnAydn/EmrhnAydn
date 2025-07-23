@@ -1,5 +1,5 @@
-<h1 align="center"> 👋🤠👋 Hey There! I'm Emirhan Aydın  👋🤠👋 </h1>
-<h3 align="center">3rd grade Computer Engineering Student from Türkiye</h3>
+<h1 align="center"> 👋🤠👋 Greetings, weary traveler of the digital void. I’m I'm Emirhan Aydın  👋🤠👋 </h1>
+<h3 align="center">                   4th grade Computer Engineering Student from Türkiye</h3>
 
 - 📫 How to reach me: **aydinnemirhann28@gmail.com**
 
