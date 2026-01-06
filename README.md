@@ -26,15 +26,13 @@
   <a href="https://groq.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*4OONcNT0-FcNYmbqraeFBw.jpeg" alt="groq" width="40" height="40"/> </a>
   <a href="https://ollama.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/147984852?s=200&v=4" alt="ollama" width="40" height="40"/> </a>
   <a href="https://milvus.io/" target="_blank"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/milvus-1dn25w98viei98zi5wdoxl.png/milvus-b890b5z0x1e61mu5fwhbha.png? _a=DATAg1AAZAA0" alt="milvus" width="40" height="40"/> </a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank"> <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss/docs/static/img/faiss-logo. svg" alt="faiss" width="40" height="40"/> </a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" alt="c" width="40" height="40"/> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original. svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original. svg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon. com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original. svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original. svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s)" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
