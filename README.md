@@ -43,13 +43,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmrhnAydn&show_icons=true&locale=en&layout=compact" alt="EmrhnAydn" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmrhnAydn&show_icons=true&locale=en" alt="EmrhnAydn" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmrhnAydn&" alt="EmrhnAydn" />
