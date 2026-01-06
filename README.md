@@ -24,7 +24,7 @@
   <a href="https://python.langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
   <a href="https://openai.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/> </a>
   <a href="https://groq.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*4OONcNT0-FcNYmbqraeFBw.jpeg" alt="groq" width="40" height="40"/> </a>
-  <a href="https://milvus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/milvus-io/community/master/logo/milvus-icon.png" alt="milvus" width="40" height="40"/> </a>
+  <a href="https://milvus.io/" target="_blank"> <img src="https://milvus.io/images/layout/milvus-logo.svg" alt="milvus" width="40" height="40"/> </a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" alt="c" width="40" height="40"/> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
