@@ -23,7 +23,7 @@
   <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
   <a href="https://python.langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
   <a href="https://openai.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/> </a>
-  <a href="https://groq.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groq_logo.svg/1024px-Groq_logo.svg.png" width="40" height="40"/> </a>
+  <a href="https://groq.com/" target="_blank"> <img src="https://github.com/groq.png" alt="groq" width="40" height="40"/> </a>
   <a href="https://milvus.io/" target="_blank"> <img src="https://milvus.io/images/layout/milvus-logo.svg" alt="milvus" width="40" height="40"/> </a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" alt="c" width="40" height="40"/> </a>
