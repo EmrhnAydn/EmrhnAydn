@@ -7,10 +7,12 @@
 - 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/emirhan-ayd%C4%B1n-7374b3252/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emirhan-aydın-7374b3252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/emirhannaydinn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="80"><a href="https://linkedin.com/in/emirhan-aydın-7374b3252/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a></td>
+    <td align="center" width="80"><a href="https://kaggle.com/emirhannaydinn" target="blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools: </h3>
 <table>
@@ -43,6 +45,7 @@
     <td align="center" width="80"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
+    <td align="center" width="80"><a href="https://github.com/vllm-project/vllm" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm-color.png" alt="vllm" width="40" height="40"/></a></td>
   </tr>
 </table>
 
