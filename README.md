@@ -11,6 +11,7 @@
   <tr>
     <td align="center" width="80"><a href="https://linkedin.com/in/emirhan-aydın-7374b3252/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://kaggle.com/emirhannaydinn" target="blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a></td>
+    <td align="center" width="80"><a href="https://emrhnaydn.github.io/emirhanAydinPortfolio" target="_blank" aria-label="Portfolio"><span style="font-size: 28px; font-weight: bold;">&lt;&gt;</span></a></td>
   </tr>
 </table>
 
