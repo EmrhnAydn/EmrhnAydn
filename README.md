@@ -2,6 +2,10 @@
 <h1 align="center">  I'm Emirhan Aydın </h1>
 <h3 align="center">      Senior Computer Engineering Student from Türkiye</h3>
 
+<p align="center">
+  <a href="https://emrhnaydn.github.io/emirhanAydinPortfolio/" target="_blank"><strong>Chat with my chatbot about me</strong></a>
+</p>
+
 - 📫 How to reach me: **aydinnemirhann28@gmail.com**
 
 - 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/emirhan-ayd%C4%B1n-7374b3252/)
@@ -37,7 +41,7 @@
     <td align="center" width="80"><a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" alt="c" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td align="center" width="80"><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/></a></td>
+    <td align="center" width="80"><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-8ec0-5a6a6eb0fd1f.png" alt="assembly" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
   </tr>
@@ -46,7 +50,7 @@
     <td align="center" width="80"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center" width="80"><a href="https://www.langgraph.dev/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" alt="langgraph" width="40" height="40"/></a></td>
+    <td align="center" width="80"><a href="https://www.langgraph.dev/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png" alt="langgraph" width="40" height="40"/></a></td>
     <td align="center" width="80"><a href="https://github.com/vllm-project/vllm" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm-color.png" alt="vllm" width="40" height="40"/></a></td>
   </tr>
 </table>
